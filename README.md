@@ -5,7 +5,6 @@ A Python tool designed to extract and analyze source code from Xcode projects. I
 
 ### Setup
 1. Clone the repository.
-2. Install dependencies: `pip install -r requirements.txt` (if applicable).
 
 ### Usage
 1. Run the script: `python xcode_project_analyzer.py`.
